@@ -176,8 +176,7 @@ pip install -r requirements.txt
 
 **Hari Ganesh**
 - Course: Machine Learning
-- 📧 [your email here]
-- 🔗 [LinkedIn profile here]
+- 📧 [hariganesh4567@gmail.com]
 
 ---
 
